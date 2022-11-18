@@ -5,6 +5,7 @@ const currentUser = {
   "userName": "NASA",
   "handle": "@nasa",
   "image": "http://www.nasa.gov/sites/default/files/images/nasaLogo-570x450.png",
+  "title": "New tweet by Nasa"
 };
 
 const templateTuit = {
